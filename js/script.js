@@ -9,7 +9,7 @@ $(document).ready(function(){
         console.log($(event).target)
         nav.hide('slow');
     });
-    nav.on('click',function(){
-        nav.hide('slow');
-    })
+    // nav.on('click',function(){
+    //     nav.hide('slow');
+    // })
 })
